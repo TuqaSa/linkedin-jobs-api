@@ -1,14 +1,14 @@
 const linkedIn = require("./index");
 
 const queryOptions = {
-  keyword: "",
+  keyword: "web developer",
   location: "India",
   dateSincePosted: "past Week",
   jobType: "full time",
   remoteFilter: "remote",
   salary: "100000",
   experienceLevel: "entry level",
-  limit: "1",
+  limit: "10",
   sortBy: "recent",
   page: "1",
 };
